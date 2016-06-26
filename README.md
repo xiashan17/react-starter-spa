@@ -21,15 +21,20 @@ npm -v 2.15.5
 
 
 本例主要技术结构说明
+
 nodejs后台     (express+jade+less)
+
 html单页面前台（react + react-router + redux）
+
 前端构建工具  （webpack）
 
 ----------
 本例依赖说明
+
 dependencies说明
 
 后台
+
 body-parser：express 重要中间件，用来解析http请求返回
 
 cookie-parser: express 重要中间件，用户处理cookie

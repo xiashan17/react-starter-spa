@@ -2,18 +2,23 @@
 
 resource  https://github.com/xiashan17/react-starter-spa
 
-# react 单页面项目
+# react single page application
 
 标签（空格分隔）： react项目文件架构
 
 ---
+
 本例为兴趣小组开源项目，功能持续升级，部分功能不完善，仅做参考
+
+----------
 
 
 #nvironment
 
 node和npm说明
+
 node -v 4.66
+
 npm -v 2.15.5
 
 
@@ -120,7 +125,7 @@ webpack-dev-server：实时构建热更新服务工具库
 
 html-webpack-plugin 更新资源文件打上cdn后缀之后同步到html引用中的webpack插件，太棒了
 
-
+----------
 ##Learn More
 
   * [Getting Started with React.js](http://facebook.github.io/react/)
@@ -134,5 +139,4 @@ html-webpack-plugin 更新资源文件打上cdn后缀之后同步到html引用�
   * [Learn ES6](https://babeljs.io/docs/learn-es6/), [ES6 Features](https://github.com/lukehoban/es6features#readme)
   * [Learn article]https://demo.reactstarterkit.com/
 
-demo   https://github.com/iwangx/spa
 

@@ -19,6 +19,16 @@ npm -v 2.15.5
 
 ----------
 
+环境搭建
+
+npm install
+
+npm run server #开启热更新服务器，访问:http://内网ip:30001/index.html
+
+npm run test   #打包操作输出到dist下的store文件夹
+
+----------
+
 
 本例主要技术结构说明
 

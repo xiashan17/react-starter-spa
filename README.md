@@ -10,7 +10,7 @@ resource  https://github.com/xiashan17/react-starter-spa
 本例为兴趣小组开源项目，功能持续升级，部分功能不完善，仅做参考
 
 
-本例环境说明
+#nvironment
 
 node和npm说明
 node -v 4.66
@@ -19,7 +19,7 @@ npm -v 2.15.5
 
 ----------
 
-环境搭建
+#Getting Started
 
 npm install
 
@@ -30,7 +30,7 @@ npm run test   #打包操作输出到dist下的store文件夹
 ----------
 
 
-本例主要技术结构说明
+#introduct
 
 nodejs后台     (express+jade+less)
 
@@ -39,9 +39,9 @@ html单页面前台（react + react-router + redux）
 前端构建工具  （webpack）
 
 ----------
-本例依赖说明
 
-dependencies说明
+
+#dependencies introduct
 
 后台
 
@@ -120,5 +120,19 @@ webpack-dev-server：实时构建热更新服务工具库
 
 html-webpack-plugin 更新资源文件打上cdn后缀之后同步到html引用中的webpack插件，太棒了
 
-查考学习  https://github.com/iwangx/spa
+
+##Learn More
+
+  * [Getting Started with React.js](http://facebook.github.io/react/)
+  * [Getting Started with GraphQL and Relay](https://quip.com/oLxzA1gTsJsE)
+  * [React.js Questions on StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
+  * [React.js Discussion Board](https://discuss.reactjs.org/)
+  * [Flux Architecture for Building User Interfaces](http://facebook.github.io/flux/)
+  * [Enzyme — JavaScript Testing utilities for React](http://airbnb.io/enzyme/)
+  * [Flow — A static type checker for JavaScript](http://flowtype.org/)
+  * [The Future of React](https://github.com/reactjs/react-future)
+  * [Learn ES6](https://babeljs.io/docs/learn-es6/), [ES6 Features](https://github.com/lukehoban/es6features#readme)
+  * [Learn article]https://demo.reactstarterkit.com/
+
+demo   https://github.com/iwangx/spa
 

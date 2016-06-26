@@ -2,9 +2,9 @@
 
 resource  https://github.com/xiashan17/react-starter-spa
 
-# react single page application
+# React single page application
 
-标签（空格分隔）： react项目文件架构
+标签： react项目文件架构
 
 ---
 

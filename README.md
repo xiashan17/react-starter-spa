@@ -17,7 +17,7 @@ resource  https://github.com/xiashan17/react-starter-spa
 
 node和npm说明
 
-node -v 4.66
+node -v 4.4.6
 
 npm -v 2.15.5
 
